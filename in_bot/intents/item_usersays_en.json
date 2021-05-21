@@ -1,0 +1,56 @@
+[
+  {
+    "id": "43b2814f-c9ef-4e1d-bb21-33abec61efff",
+    "data": [
+      {
+        "text": "ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "878a3b37-ab36-4659-a528-8e249242d311",
+    "data": [
+      {
+        "text": "fries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd77a30b-46cb-4cda-b1f4-011cb633910d",
+    "data": [
+      {
+        "text": "maggi",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fb90011-50cc-4986-bae3-90d4946b027d",
+    "data": [
+      {
+        "text": "momos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
